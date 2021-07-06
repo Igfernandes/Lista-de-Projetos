@@ -79,3 +79,103 @@
     </tr>
   </tbody>
 </table>
+
+
+
+## IGEAR
+
+<table>
+  <thead>
+    <tr>
+      <th>Name Project(Nome do Projeto)</th>
+      <th>Theme(Tema)</th>
+      <th>Occupation(Função)</th>
+      <th>Actions(Ações)</th>
+      <th>Time in y care(tempo sob meus cuidados)</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        iGear - Marketing Digital
+      </td>
+      <td>
+        Site oficial para uso comercial
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+        15/10/2020 -- Atualmente
+      </td>
+      <td>
+        https://igear.com.br
+      </td>
+    </tr>
+    <tr>
+      <td>
+       ModaOusada - Roupas íntimas
+      </td>
+       <td>
+        Onepage para uso comercial
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+        15/11/2020 -- Atualmente
+      </td>
+      <td>
+        https://modaousada.com
+      </td>
+    </tr>
+    <tr>
+      <td>
+       LeveSeg - Seguros
+      </td>
+       <td>
+        Site oficial para uso comercial
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+        15/01/2021 -- Atualmente
+      </td>
+      <td>
+        https://levesegcorretora.com.br
+      </td>
+    </tr>
+    <tr>
+      <td>
+       UneTour
+      </td>
+       <td>
+          Onepage para promover as atividades da empresa
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+       25/03/2021 -- Atualmente
+      </td>
+      <td>
+        https://unetour.com/
+      </td>
+    </tr>
+  </tbody>
+</table>
+
