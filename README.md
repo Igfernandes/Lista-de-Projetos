@@ -176,6 +176,26 @@
         https://unetour.com/
       </td>
     </tr>
+    <tr>
+      <td>
+       UneTour
+      </td>
+       <td>
+          Site de loja Oficial da Empresa
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+       25/03/2021 -- Atualmente
+      </td>
+      <td>
+        https://lazabikini.com.br
+      </td>
+    </tr>
   </tbody>
 </table>
 
