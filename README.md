@@ -178,7 +178,7 @@
     </tr>
     <tr>
       <td>
-       UneTour
+       Lazabikini
       </td>
        <td>
           Site de loja Oficial da Empresa
