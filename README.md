@@ -199,3 +199,42 @@
   </tbody>
 </table>
 
+
+## CodB
+
+<table>
+  <thead>
+    <tr>
+      <th>Name Project(Nome do Projeto)</th>
+      <th>Theme(Tema)</th>
+      <th>Occupation(Função)</th>
+      <th>Actions(Ações)</th>
+      <th>Time in y care(tempo sob meus cuidados)</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        CodB - Marketing Digital
+      </td>
+      <td>
+        Site oficial para uso comercial
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+        02/07/2021 -- Atualmente
+      </td>
+      <td>
+        https://codb.com.br
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
