@@ -2,6 +2,64 @@
 
 - Abaixo ficam a lista de todos os projetos produzidos e corrigidos durante o meu tempo de atuação nas empresas. 
 
+## MINHAS PRODUÇÕES
+
+<table>
+  <thead>
+    <tr>
+      <th>Name Project(Nome do Projeto)</th>
+      <th>Theme(Tema)</th>
+      <th>Occupation(Função)</th>
+      <th>Actions(Ações)</th>
+      <th>Time in y care(tempo sob meus cuidados)</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        dragon Template
+      </td>
+      <td>
+        Template Para Estudo
+      </td>
+      <td>
+        Desenvolvedor FrontEnd
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+        10/02/2021
+      </td>
+      <td>
+        https://github.com/Igfernandes/dragon-template
+      </td>
+    </tr>
+    <tr>
+      <td>
+       Apk Financeiro - JS
+      </td>
+       <td>
+        Telas de registro de despesas
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+        06/04/2021
+      </td>
+      <td>
+        https://github.com/Igfernandes/ApkFinanceiro
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## INTERNIT 
 
@@ -236,5 +294,7 @@
     </tr>
   </tbody>
 </table>
+
+
 
 
