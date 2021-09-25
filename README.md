@@ -274,6 +274,26 @@
         https://lazabikini.com.br
       </td>
     </tr>
+     <tr>
+      <td>
+       Araçá Turismo
+      </td>
+       <td>
+          Site de loja Oficial da Empresa
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação, Manutenção e Atualização
+      </td>
+      <td>
+       15/08/2021 -- Atualmente
+      </td>
+      <td>
+        https://aracaturismo.com.br
+      </td>
+    </tr>
   </tbody>
 </table>
 
