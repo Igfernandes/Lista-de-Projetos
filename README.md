@@ -97,6 +97,26 @@
     </tr>
     <tr>
       <td>
+        LRM - Construtora
+      </td>
+      <td>
+        Site oficial para uso comercial
+      </td>
+      <td>
+        Desenvolvedor FullStack
+      </td>
+      <td>
+        Criação e Manutenção
+      </td>
+      <td>
+        10/08/2021 -- Atualmente
+      </td>
+      <td>
+        https://lrm.com.br
+      </td>
+    </tr>
+    <tr>
+      <td>
        Cyano - Construtora
       </td>
        <td>
