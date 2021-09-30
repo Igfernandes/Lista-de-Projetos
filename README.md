@@ -326,7 +326,7 @@
         Criação, Manutenção e Atualização
       </td>
       <td>
-        02/07/2021 -- 07/07/2021
+        02/07/2021 -- 25/07/2021
       </td>
       <td>
         https://codb.com.br
