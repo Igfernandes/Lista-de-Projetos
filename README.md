@@ -129,7 +129,7 @@
         Manutenção e Atualização
       </td>
       <td>
-        25/01/2021 -- Atualmente
+        25/01/2021 -- 10/06/2021
       </td>
       <td>
         https://cyanoresidences.com.br
@@ -149,7 +149,7 @@
         Criação, Manutenção e Atualização
       </td>
       <td>
-        10/02/2021 -- Atualmente
+        10/02/2021 -- 22/07/2021
       </td>
       <td>
         https://allheroesaccor.com
@@ -288,7 +288,7 @@
         Criação, Manutenção e Atualização
       </td>
       <td>
-       15/08/2021 -- Atualmente
+       15/08/2021 -- 30/09/2021
       </td>
       <td>
         https://aracaturismo.com.br
@@ -326,7 +326,7 @@
         Criação, Manutenção e Atualização
       </td>
       <td>
-        02/07/2021 -- Atualmente
+        02/07/2021 -- 07/07/2021
       </td>
       <td>
         https://codb.com.br
